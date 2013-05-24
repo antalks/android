@@ -45,6 +45,7 @@ public class MainActivity extends FragmentActivity {
 		mSectionsPagerAdapter = new SectionsPagerAdapter(
 				getSupportFragmentManager());
 		//testing one
+		// testing chee hoe
 
 		// Set up the ViewPager with the sections adapter.
 		mViewPager = (ViewPager) findViewById(R.id.pager);
